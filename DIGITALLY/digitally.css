@@ -1,0 +1,177 @@
+body {
+	background-color: rgb(46, 7, 95);
+	font-family: Helvetica;
+ 	box-sizing: border-box;
+  color: rgb(94, 56, 238);
+}
+
+#header{
+	text-align: center;
+	font-size: 60px;
+  display: block;
+  font-family: 'Raleway', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+  background-color: #FFFFFF;
+  margin-left: 40px;
+  font-family: 'Raleway', sans-serif;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(245, 89, 244);
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  color: rgb(219, 37, 230);
+}
+
+.comic {
+	text-align: center;
+	padding: 200px;
+	font-size: 40px;
+	font-color: white;
+}
+
+
+/* .svg .navbar-brand {
+    background-image: none;
+}
+main.min.css:1
+header nav .navbar-brand {
+    position: relative;
+    height: 50px;
+    width: 153px;
+    display: block;
+    padding: 0 15px 0 20px;
+    text-align: center;
+    background: #222 url(../img/bigspaceship_logo.png) no-repeat center center;
+    float: left;
+    line-height: 25px;
+} */
+
+main {
+	align-content: center;
+	text-align: center;
+}
+ 
+.searchform {
+  display: inline-block;
+  margin: 0;
+  overflow: hidden;
+  width: 50%;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+ul:hover {
+	cursor: pointer;
+  color: #ADEAEA;
+}
+
+form {
+	text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+label, input {
+  vertical-align: baseline;
+  color: #737373;
+  font-family: 'Raleway', sans-serif;
+}
+label {
+  margin: 0.125em 0.125em 0 0;
+  float: right;
+  
+}
+input[type="search"] {
+  border: 2px solid #737373;
+  border-width: 0 0 3px;
+  background-color: transparent;
+  font: 22px "Open Sans", sans-serif;
+  padding: 0.125em 0.225em;
+  width: 85%;
+  float: center; 
+}
+
+input[type="search"]:focus {
+  color: #E18728;
+  border-color: #E18728;
+  outline: none;
+}
+
+
+.comingsoon {
+  width: 100%;
+}
+
+.nav2 {
+  text-align: center;
+
+}
+
+.jello {
+  font-weight: 500;
+  font-size: 80px;
+}
+
+img {
+  width: 100%;
+}
+
+.searchform {
+      display: inline-block;
+        margin: 0;
+        overflow: hidden;
+        width: 50%;
+        text-align: center;
+    }
+
+    form {
+      text-align: center;
+    }
+
+    label, input {
+        vertical-align: baseline;
+        color: rgb(79, 22, 161);
+    }
+    label {
+        margin: 0.125em 0.125em 0 0;
+        float: right;
+    }
+
+    input[type="search"] {
+        border: 2px solid rgb(79, 22, 161);
+        border-width: 0 0 3px;
+        background-color: transparent;
+        font: 22px "Open Sans", sans-serif;
+        padding: 0.125em 0.225em;
+        width: 85%;
+        float: center; 
+    }
+
+    input[type="search"]:focus {
+        color: rgb(242, 43, 253);
+        border-color: rgb(242, 43, 253);
+        outline: none;
+    }
+
+
+    /*.banner {
+       padding: 100px;
+            background-attachment: fixed;
+            background-image: url('https://s-media-cache-ak0.pinimg.com/originals/35/2e/5f/352e5fad5e0dffac14342e25ab94af9c.jpg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center center;
+            height: 400px;
+    } */

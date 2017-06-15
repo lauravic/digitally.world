@@ -1,0 +1,25 @@
+h1 {
+	font-family: 'Raleway', sans-serif;
+	color: rgb(94, 56, 238);
+}
+
+body {
+	background-color: rgb(46, 7, 95);
+	color: #FFF;
+}
+
+.line {
+	color: rgb(245, 89, 244);
+}
+
+.lorem {
+	font-size: 20px;
+	word-spacing: 1.5px;
+	text-align: justify;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+.title a {
+	color: rgb(94, 56, 238);
+}

@@ -1,0 +1,94 @@
+.container-fluid {
+	background-color: rgb(46, 7, 95);
+	color: #FFF;
+	text-align: justify-all;
+	word-spacing: 2px;
+	padding: 20px;
+}
+
+.title {
+	color: rgb(94, 56, 238);
+	font-family: 'Raleway', sans-serif;
+}
+
+.title a {
+	color: rgb(94, 56, 238);
+}
+
+.title:hover {
+	cursor: pointer;
+	color: rgb(94, 56, 238);
+}
+
+.definition {
+	color: rgb(180, 39, 251);
+	font-family: 'Raleway', sans-serif;
+}
+
+.text-justify {
+	text-align: justify;
+}
+
+.levl1 {
+	border-width: 20px;
+
+	border: thin;
+
+	border: solid;
+
+	border-color: rgb(245, 89, 244);
+
+	color: white;
+
+	text-align: justify;
+
+	padding: 20px;
+}
+
+.levl2 {
+	border-width: 20px;
+
+	border: thin;
+
+	border: solid;
+
+	border-color: rgb(180, 39, 251);
+
+	text-align: justify;
+
+	padding: 20px;
+
+}
+
+.levl3 {
+	border-width: 20px;
+
+	border: thin;
+
+	border: solid;
+
+	border-color: rgb(245, 89, 244);
+
+	text-align: justify;
+
+	padding: 20px;
+}
+
+.foot {
+	text-align: left;
+}
+
+.title a > h1:hover {
+	text-decoration: none;
+	color: rgb(94, 56, 238);
+}
+
+.title a:hover {
+	text-decoration: none;
+}
+
+.carousel-content {
+    color:white;
+    display: flex;
+    align-items:center;
+}
